@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/restapi_spa?characterEncoding=utf8
+    username: restapi_spa_06
+    password: password
+    driver-class-name: com.mysql.jdbc.Driver
