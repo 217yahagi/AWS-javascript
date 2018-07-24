@@ -1,5 +1,5 @@
-CREATE TABLE `Animal` (
-  `title` text,
-  `url` varchar(255),
-  `content` text
+CREATE TABLE `message` (
+  `user_name` text,
+  `message` text
+
 )

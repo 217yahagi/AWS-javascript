@@ -2,6 +2,7 @@
 import 'materialize-css';
 // スタイルシートを読み込む
 import './index.scss';
+import './main_page.tag.html';
 
 const obs = riot.observable()
 const mixinObj = {"obs":obs}
