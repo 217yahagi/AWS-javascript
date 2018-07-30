@@ -8,5 +8,5 @@ import lombok.Data;
 @AllArgsConstructor
 public class Message {
     private String user_name;
-    private String message;
+    private String Message;
 }

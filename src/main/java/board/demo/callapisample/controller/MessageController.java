@@ -17,6 +17,7 @@ public class MessageController {
 
     @RequestMapping(method = RequestMethod.GET)
 
-    public List<Message> getAllMessage(){
+    public List<Message> getAllMessage() {
         return messageDao.getAllMessage();
     }
+}
