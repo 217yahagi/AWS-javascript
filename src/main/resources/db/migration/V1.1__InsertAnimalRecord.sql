@@ -1,1 +1,1 @@
-INSERT INTO message(user_name,message) VALUES("","");
+INSERT message(message)values("こんにちわ"),("Hello");
